@@ -1,4 +1,4 @@
-//자세한 내용은 node.txt를 참고하자.
+//자세한 내용은 node.txt를 참고하자. 'scof test console.png's & const test.png 참고
 
 var a = 0; //a는 함수 스코프 0으로 선언되었다.
 
