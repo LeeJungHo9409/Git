@@ -3,6 +3,7 @@
 //즉 배열리터널 ex) const num = []; 여기서 [] 이걸 리터널이라 부름.
 //객체 리터널 const num = {}; {} 의미.
 
+console.log("es5");
 
 var sayNode = function(){
     console.log("Node");
